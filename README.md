@@ -31,12 +31,13 @@
 - Python >= 3.12
 - paho-mqtt
 - tkinter (Python標準庫)
+- load_dotenv
 
 ## 安裝說明
 
 1. 安裝相依套件：
 ```bash
-pip install paho-mqtt
+pip install paho-mqtt load_dotenv
 ```
 
 2. 執行程式：
