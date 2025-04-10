@@ -106,3 +106,5 @@ MQTT_TOPIC_CONTROL=<燈控命令主題>
 - MQTT連接失敗時會顯示錯誤訊息
 - 連接狀態即時更新
 - 數據解析錯誤時會記錄到控制台
+
+<img src="https://github.com/david0932/electricity-dashboard/blob/master/image/screenshot.png" alt="Screenshot" width="400" />
