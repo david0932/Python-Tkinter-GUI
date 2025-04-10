@@ -107,4 +107,4 @@ MQTT_TOPIC_CONTROL=<燈控命令主題>
 - 連接狀態即時更新
 - 數據解析錯誤時會記錄到控制台
 
-<img src="https://github.com/david0932/electricity-dashboard/blob/master/image/screenshot.png" alt="Screenshot" width="400" />
+<img src="https://github.com/david0932/Python-Tkinter-GUI/blob/master/image/screenshot.png" alt="Screenshot" />
